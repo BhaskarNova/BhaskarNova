@@ -42,7 +42,7 @@ I’m here to learn, build, and sprinkle creativity across codebases 🌌
 
 ---
 
-## 🌈 Fun Facts
+## ✨ Fun Facts
 - 🕹️ Gamer at heart, coder by choice  
 - 🧩 Love solving puzzles and experimenting with new tech  
 - 🎨 Sometimes I doodle in ASCII art  
@@ -69,4 +69,3 @@ I’m here to learn, build, and sprinkle creativity across codebases 🌌
 ---
 
 🌌 *“Code is like magic—when it works, it feels like a spell.”* 🌌
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
