@@ -69,3 +69,4 @@ I’m here to learn, build, and sprinkle creativity across codebases 🌌
 ---
 
 🌌 *“Code is like magic—when it works, it feels like a spell.”* 🌌
+![Spotify](https://novatorem.vercel.app/api/spotify)
