@@ -32,3 +32,41 @@ I love exploring new technologies, building creative projects, and sharing my jo
 ---
 
 # 🎉 Playful Side 🚀
+  ___  _           _             
+ | _ )| |__  _  _ | |__ ___  _ _ 
+ | _ \| '_ \| || || / // -_)| '_|
+ |___/|_.__/ \_,_||_\_\\___||_|  
+
+ 
+✨ Welcome to my cosmic corner of GitHub! ✨  
+I’m here to learn, build, and sprinkle creativity across codebases 🌌
+
+---
+
+## 🌈 Fun Facts
+- 🕹️ Gamer at heart, coder by choice  
+- 🧩 Love solving puzzles and experimenting with new tech  
+- 🎨 Sometimes I doodle in ASCII art  
+
+---
+
+## 🎵 Vibes
+![Spotify](https://novatorem.vercel.app/api/spotify)
+
+*(Shows what I’m listening to on Spotify in real-time!)*
+
+---
+
+## ✨ Random Quote of the Day
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=firefox&logoColor=white)](https://yourwebsite.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+
+---
+
+🌌 *“Code is like magic—when it works, it feels like a spell.”* 🌌
