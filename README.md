@@ -45,15 +45,8 @@ I’m here to learn, build, and sprinkle creativity across codebases 🌌
 ## ✨ Fun Facts
 - 🕹️ Gamer at heart, coder by choice  
 - 🧩 Love solving puzzles and experimenting with new tech  
-- 🎨 Sometimes I doodle in ASCII art  
-
----
-
-## 🎵 Vibes
-![Spotify](https://novatorem.vercel.app/api/spotify)
-
-*(Shows what I’m listening to on Spotify in real-time!)*
-
+- 🎨 Sometimes I doodle in ASCII art
+  
 ---
 
 ## ✨ Random Quote of the Day
